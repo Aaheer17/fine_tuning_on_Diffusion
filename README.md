@@ -1,8 +1,8 @@
 # LoRA Fine-Tuning for Diffusion Models - Complete Learning Package
 
-Welcome! This package contains everything you need to learn and implement LoRA (Low-Rank Adaptation) fine-tuning for diffusion models.
+Welcome! This package contains everything anyone needs to learn and implement LoRA (Low-Rank Adaptation) fine-tuning for diffusion models.
 
-## 📚 What You Have
+## 📚 What We Have here
 
 ### 1. **diffusion_lora_finetuning_tutorial.md** (21 KB)
 **The Complete Tutorial** - Start here!
