@@ -405,18 +405,6 @@ python lora_complete_example.py
 
 ---
 
-## 📝 Assignment Ideas
-
-To solidify your learning:
-
-1. **Compare ranks:** Train with r=2, 4, 8 and compare outputs
-2. **Ablation study:** Try different target modules
-3. **Real dataset:** Train on Naruto or Pokemon dataset
-4. **Multi-LoRA:** Train two LoRAs and combine them
-5. **Documentation:** Write a blog post explaining LoRA
-
----
-
 ## 🙏 Acknowledgments
 
 This tutorial is based on:
@@ -426,19 +414,8 @@ This tutorial is based on:
 
 ---
 
-## 📧 Questions?
 
-If you're stuck:
-1. Re-read relevant sections
-2. Check the Quick Reference guide
-3. Search for error messages
-4. Ask on HuggingFace forums
-5. Check GitHub issues
 
----
 
-**Happy Learning! 🚀**
-
-Remember: LoRA is about making AI more accessible. You're training models that once required data center resources on your own GPU. That's pretty amazing!
 
 *Last updated: October 2025*
